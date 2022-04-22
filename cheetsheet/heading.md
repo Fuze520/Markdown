@@ -3,6 +3,7 @@
 In the first way of creating headings, we can create **6 different levels of headings** in Markdown. We use different numbers of **'#'** before titles to create different headings. For example, one **'#'** corresponds to level one heading, etc.
 
 **_Hint1_:** One whitespace must be added after **'#'**.
+
 **_Hint2_:** Blank lines should be added before and after a heading.
 
 # Level 1 Heading
