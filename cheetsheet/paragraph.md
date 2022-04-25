@@ -4,7 +4,7 @@ We can just write any text to form a individual paragraph, and if we want to hav
 
 ---
 
-##### :bulb: Blank line
+#### :bulb: Blank line
 
 We can see the difference of wheather there is a blank line or not.
 
