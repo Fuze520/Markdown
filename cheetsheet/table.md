@@ -20,7 +20,8 @@ Column 1 | Column 2
 
 We use any number of ```---``` to separate the header row and other rows. Between columns of each row, we only need to use just one ```|``` so that we can tell apart different columns.
 
-&nbsp;:heavy_exclamation_mark: &nbsp;&nbsp;**We must reserve at least one blank line before we create tables, otherwise it won't work at all.**
+:heavy_exclamation_mark: &nbsp;&nbsp;**We must reserve at least one blank line before we create tables, otherwise it won't work at all.**
+
 :x: **Unfortunately, we can't create some comple table operations, like merging some cells or change colors in Markdown, while we can use HTML to implement these.**
 
 ---
